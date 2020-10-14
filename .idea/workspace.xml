@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc8e5c70-304f-453a-bcd5-7f376c8f4e70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myActivateViewOnRun" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ijgNj7bFXkX5kPVBdsEpHIZpxb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TedTriSS/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc8e5c70-304f-453a-bcd5-7f376c8f4e70" name="Default Changelist" comment="" />
+      <created>1602426376912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602426376912</updated>
+      <workItem from="1602426378101" duration="15187000" />
+      <workItem from="1602521728704" duration="597000" />
+      <workItem from="1602522536260" duration="5693000" />
+      <workItem from="1602584987289" duration="9036000" />
+      <workItem from="1602664576132" duration="1571000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602426613598">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="410" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.3440.1400@0.0.1920.1040" timestamp="1602426613598" />
+    <state x="668" y="349" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602605850057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="349" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.0.3440.1400@0.0.1920.1040" timestamp="1602605850057" />
+    <state x="687" y="203" key="FileChooserDialogImpl" timestamp="1602429047773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="203" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.3440.1400@0.0.1920.1040" timestamp="1602429047773" />
+    <state width="1871" height="251" key="GridCell.Tab.0.bottom" timestamp="1602605980725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.3440.1400@0.0.1920.1040" timestamp="1602605980725" />
+    <state width="1871" height="251" key="GridCell.Tab.0.center" timestamp="1602605980725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="251" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.3440.1400@0.0.1920.1040" timestamp="1602605980725" />
+    <state width="1871" height="251" key="GridCell.Tab.0.left" timestamp="1602605980725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="251" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.3440.1400@0.0.1920.1040" timestamp="1602605980725" />
+    <state width="1871" height="251" key="GridCell.Tab.0.right" timestamp="1602605980725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="251" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.3440.1400@0.0.1920.1040" timestamp="1602605980725" />
+    <state width="1871" height="251" key="GridCell.Tab.1.bottom" timestamp="1602605980725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="251" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.3440.1400@0.0.1920.1040" timestamp="1602605980725" />
+    <state width="1871" height="251" key="GridCell.Tab.1.center" timestamp="1602605980725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="251" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.3440.1400@0.0.1920.1040" timestamp="1602605980725" />
+    <state width="1871" height="251" key="GridCell.Tab.1.left" timestamp="1602605980725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="251" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.3440.1400@0.0.1920.1040" timestamp="1602605980725" />
+    <state width="1871" height="251" key="GridCell.Tab.1.right" timestamp="1602605980725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="251" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.3440.1400@0.0.1920.1040" timestamp="1602605980725" />
+    <state width="1871" height="251" key="GridCell.Tab.2.bottom" timestamp="1602605980726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="251" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.3440.1400@0.0.1920.1040" timestamp="1602605980726" />
+    <state width="1871" height="251" key="GridCell.Tab.2.center" timestamp="1602605980725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="251" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.3440.1400@0.0.1920.1040" timestamp="1602605980725" />
+    <state width="1871" height="251" key="GridCell.Tab.2.left" timestamp="1602605980725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="251" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.3440.1400@0.0.1920.1040" timestamp="1602605980725" />
+    <state width="1871" height="251" key="GridCell.Tab.2.right" timestamp="1602605980725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="251" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.3440.1400@0.0.1920.1040" timestamp="1602605980725" />
+    <state x="359" y="78" key="SettingsEditor" timestamp="1602605914479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="359" y="78" key="SettingsEditor/0.0.1920.1040/1920.0.3440.1400@0.0.1920.1040" timestamp="1602605914479" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1602455750222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/1920.0.3440.1400@0.0.1920.1040" timestamp="1602455750222" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TedTriSS$index_html.dat" NAME="index.html Coverage Results" MODIFIED="1602601557165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
